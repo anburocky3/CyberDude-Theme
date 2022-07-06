@@ -936,8 +936,7 @@
       "name": "HTML tags",
       "scope": ["entity.name.tag"],
       "settings": {
-        "foreground": "#FF79C6",
-        "fontStyle": "italic"
+        "foreground": "#FF79C6"
       }
     },
     {
@@ -1549,15 +1548,15 @@
         "meta.function.method.without-arguments.ruby entity.name.function.ruby"
       ],
       "settings": {
-        "foreground": "#50FA7B",
-        "fontStyle": "italic"
+        "foreground": "#50FA7B"
       }
     },
     {
       "name": "Ruby function parameters",
       "scope": ["variable.parameter.function.ruby"],
       "settings": {
-        "foreground": "#F8F8F2"
+        "foreground": "#F8F8F2",
+        "fontStyle": "italic"
       }
     },
     {
